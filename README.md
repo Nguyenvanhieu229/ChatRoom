@@ -1,9 +1,7 @@
-## Chủ đề: Xây dựng phòng chat online.
+## Chủ đề: Xây dựng phòng chat online cho phép gửi tin nhắn dưới dạng văn bản, file đa phương tiện, file kích thước lớn(GB), hoạt động đa luồng.
 
 ## Thông tin nhóm:
   - Nguyễn Văn Hiếu
-  - Nguyễn Phương Anh
-  - Bùi Tuấn Nhật
 
 ## Ngôn ngữ sử dụng: 
   - front_end: html, css, javascript.
